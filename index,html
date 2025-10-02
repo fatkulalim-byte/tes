@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
-<head>
+ <head>
   <title>profil digital -[nama] saya</title>
   <link rel="href="style.css">
 </head>
 <body>
-<div class="kartu profil"
+ <div class="kartu profil"
 <img src="foto-profil.jpg" alt="foto profil saya">
        <h1>nama lengkap anda</h1>
        <p>siswa sma yang tertarik dengan teknologi dan desain.selamat datang di website pertama saya!</p>
        <a href="..."kunjungi instagram saya</a>
-       <button id
-href="https://www.instagram.com/usernameanda">kunjungi instagram saya</a>
-
-  <!-- konten yang yang terlihat oleh pengunjung ada -->
+       <button id"sapa button">sapa saya</button>
+ </div>
+<script src="script.js></script>
   </body>
   </html>
